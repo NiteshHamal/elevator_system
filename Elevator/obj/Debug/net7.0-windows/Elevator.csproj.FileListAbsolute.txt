@@ -1,0 +1,55 @@
+C:\Users\Hanci\source\repos\Elevator\Elevator\bin\Debug\net7.0-windows\Elevator.exe
+C:\Users\Hanci\source\repos\Elevator\Elevator\bin\Debug\net7.0-windows\Elevator.deps.json
+C:\Users\Hanci\source\repos\Elevator\Elevator\bin\Debug\net7.0-windows\Elevator.runtimeconfig.json
+C:\Users\Hanci\source\repos\Elevator\Elevator\bin\Debug\net7.0-windows\Elevator.dll
+C:\Users\Hanci\source\repos\Elevator\Elevator\bin\Debug\net7.0-windows\Elevator.pdb
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.Form1.resources
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.csproj.GenerateResource.cache
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.AssemblyInfoInputs.cache
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.AssemblyInfo.cs
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.dll
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\refint\Elevator.dll
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.pdb
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.genruntimeconfig.cache
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\ref\Elevator.dll
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.Properties.Resources.resources
+C:\Users\Hanci\source\repos\Elevator\Elevator\obj\Debug\net7.0-windows\Elevator.Resource1.resources
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Elevator.exe
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Elevator.deps.json
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Elevator.runtimeconfig.json
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Elevator.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Elevator.pdb
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.Properties.Resources.resources
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.Resource1.resources
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.csproj.GenerateResource.cache
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.AssemblyInfoInputs.cache
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.AssemblyInfo.cs
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.csproj.CoreCompileInputs.cache
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.dll
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\refint\Elevator.dll
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.pdb
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.genruntimeconfig.cache
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\ref\Elevator.dll
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.csproj.AssemblyReference.cache
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\MySqlConnector.dll
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.csproj.CopyComplete
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\LanguageExt.Core.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.Diagnostics.Eventing.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.Fonts.Fluent.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.Foundation.Logging.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.Foundation.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.Composition.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.Dispatching.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.FluentTheme.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.FluentTheme.v1.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.FluentTheme.v2.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.Toolkit.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.UI.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.Xaml.dll
+E:\My Projects\Elevator System\Elevator\bin\Debug\net7.0-windows\Uno.dll
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Elevator System\Elevator\obj\Debug\net7.0-windows\Elevator.Form1.resources
